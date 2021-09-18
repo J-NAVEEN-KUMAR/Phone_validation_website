@@ -1,0 +1,11 @@
+.inputcontainer {
+  max-width: 100%;
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #cfe0c3;
+}
